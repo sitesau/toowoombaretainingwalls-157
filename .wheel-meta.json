@@ -1,0 +1,22 @@
+{
+  "wheel_id": 941,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-157",
+  "project": "retaining-walls-toowoomba-1b8cbcaf40cc5e6db600dc229a1cb460131eb",
+  "parent_t1_ref": "toowoombaretainingwalls-005",
+  "node_role": "buffer",
+  "money_target": "toowoombaretainingwalls.com",
+  "primary_kw": "retaining walls toowoomba",
+  "intended_url": "https://sitesau.github.io/toowoombaretainingwalls-157/",
+  "tier": "T2",
+  "writeback_nonce": "72a48c0f2ce2602e",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-toowoomba-toowoombaretainingwalls-005/",
+      "anchor": "Retaining Walls Toowoomba: Practical Site Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
